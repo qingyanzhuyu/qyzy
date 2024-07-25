@@ -1,0 +1,138 @@
+<div align="center">
+<h2>
+MX 2024 Galaxy Plan B Workbook
+</h2>
+<h5>
+<i>Unofficial collection. Made by <a href="https://hellolin.top/" target="_blank">hellolin</a>.</i>
+</h5>
+</div>
+
+---
+
+另一个~~你们可能见过的~~大题单：[ZR 2023 Summer C Workbook](https://vjudge.net/article/3852)
+
+**请注意，在 VJudge 上，比赛的提交直到结束后才算入题库提交，所以即使在未结束的比赛中过了某题，下面的列表中也不会显示 AC。**
+
+### Day1 - 2024.07.16
+
+上午：
+[problem:CodeForces-425E]
+[problem:CodeForces-93E]
+[problem:CodeForces-1371F]
+[problem:CodeForces-1242D]
+
+下午：
+[problem:CodeForces-79D]
+[problem:CodeForces-1615F]
+[problem:黑暗爆炸-3864]
+[problem:洛谷-P5309]
+[problem:Gym-101002H]
+[problem:LibreOJ-6564]
+[FARIO 2019 Papa and Baby Frog](https://orac2.info/problem/fario19frogs/) 最后一题去这交
+
+### Day2 - 2024.07.17
+
+上午：
+[problem:CodeForces-379D]
+[problem:洛谷-P4359]
+[problem:洛谷-P3977]
+[problem:Gym-104053M]
+[problem:CodeForces-906C] 这个需要输出方案
+[problem:CodeForces-757D]
+[problem:AtCoder-arc171_d]
+
+
+下午：
+[problem:洛谷-P6798]
+[problem:洛谷-P4211]
+[problem:CodeForces-1709E]
+
+### Day3 - 2024.07.18
+
+[problem:洛谷-P2680]
+[problem:CodeForces-293E]
+[problem:洛谷-P4565]
+[problem:AtCoder-cf17_final_j]
+
+### Day4 -  2024.07.19
+
+上午：
+
+[problem:CodeForces-623B]
+[problem:CodeForces-653E]
+[problem:CodeForces-965E]
+[problem:CodeForces-1139D]
+[problem:CodeForces-1088E]
+[problem:CodeForces-1260E]
+[problem:CodeForces-794D]
+
+下午：
+
+[problem:洛谷-P8867]
+[problem:洛谷-P3225]
+[problem:洛谷-P2272]
+[problem:洛谷-P1173]
+
+### Day5 - 2024.07.20
+
+[problem:洛谷-P4717]
+
+### Day6 - 2024.07.21
+
+[problem:CodeForces-547D]
+[problem:洛谷-P4767]
+[problem:洛谷-P6658]
+[problem:洛谷-P4292]
+[problem:AtCoder-agc017_c]
+
+### Day7 - 2024.07.22
+
+[problem:洛谷-P6378]
+[problem:AtCoder-abc277_h]
+[problem:洛谷-P7477]
+[problem:洛谷-P3825]
+[problem:洛谷-P5297]
+[problem:洛谷-P6965]
+[problem:洛谷-P9139]
+[problem:洛谷-P6898]
+[problem:洛谷-P7843]
+
+The 2021 ICPC Asia Jinan Regional Contest Problem M 暂时没地方交
+
+### Day8 - 2024.07.23
+
+上午：
+
+[problem:洛谷-P1712]
+[problem:CodeForces-853C]
+[problem:CodeForces-1696D]
+[problem:洛谷-P9130]
+[problem:CodeForces-848C]
+[problem:HackerRank-quadruple-counting]
+[problem:CodeForces-1038F]
+
+下午：
+
+[problem:洛谷-P5278]
+[problem:CodeForces-896C]
+[problem:CodeForces-702F]
+[problem:洛谷-P3665]
+[problem:CodeForces-1844F2]
+[problem:洛谷-P3765]
+
+### Day9 - 2024.07.24
+
+[problem:洛谷-P1450]
+[problem:洛谷-P6478]
+[problem:UniversalOJ-62]
+
+### Day10 - 2024.07.25
+
+[problem:CodeForces-1556E]
+[problem:CodeForces-1234F]
+[problem:洛谷-P9746]
+[problem:CodeForces-1316E]
+[problem:CodeForces-17C]
+[problem:CodeForces-1842H]
+
+<hr><p>Cloned from <a href='/article/5290' target='_blank'>hellolin's article</a>.</p>
