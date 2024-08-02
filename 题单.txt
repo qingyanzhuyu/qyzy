@@ -45,6 +45,8 @@ MX 2024 Galaxy Plan B Workbook
 下午：
 [problem:洛谷-P6798]
 [problem:洛谷-P4211]
+[problem:CodeForces-1009F]
+[problem:洛谷-P5903]
 [problem:CodeForces-1709E]
 
 ### Day3 - 2024.07.18
@@ -132,7 +134,66 @@ The 2021 ICPC Asia Jinan Regional Contest Problem M 暂时没地方交
 [problem:CodeForces-1234F]
 [problem:洛谷-P9746]
 [problem:CodeForces-1316E]
+[problem:AtCoder-joisc2016_i]
+[problem:洛谷-P3651] duplicated
 [problem:CodeForces-17C]
 [problem:CodeForces-1842H]
+
+### Day12 - 2024.07.27
+
+[problem:洛谷-P3041]
+[problem:CodeForces-163E]
+[problem:CodeForces-1202E]
+[problem:CodeForces-1400F]
+[problem:CodeForces-547E]
+[problem:CodeForces-587F]
+
+### Day14 - 2024.07.29
+
+[problem:CodeChef-FINDINGSUM]
+[problem:Baekjoon-19364]
+[problem:AtCoder-abc219_f]
+[problem:CodeForces-1732E]
+
+### Day15 - 2024.07.30
+
+[problem:CodeForces-1675G]
+[problem:HackerRank-marmelade-kingdom]
+[problem:CodeForces-1039D]
+[problem:洛谷-P10668]
+[problem:HackerRank-board-coloring]
+[problem:QOJ-4211]
+
+### Day16 - 2024.07.31
+
+[problem:CodeForces-448E]
+[problem:CodeChef-SORTP9]
+[problem:AtCoder-abc246_g]
+[problem:洛谷-P9387]
+[problem:洛谷-P10549]
+[problem:LibreOJ-536]
+[problem:Baekjoon-20798]
+
+### Day17 - 2024.08.01
+
+[problem:CodeForces-702F]
+[problem:CodeForces-19D]
+[problem:洛谷-P2801]
+[problem:CodeForces-551E]
+[problem:CodeForces-985G]
+[problem:洛谷-P4562]
+[problem:CodeForces-961F]
+[problem:Baekjoon-20599]
+[problem:QOJ-1263]
+
+### Day18 - 2024.08.02
+
+[problem:CodeForces-864F]
+[problem:CodeForces-717F]
+[problem:洛谷-P2178]
+[problem:洛谷-P8023]
+[problem:洛谷-P1117]
+[problem:洛谷-P9482]
+[problem:Gym-102803E]
 
 <hr><p>Cloned from <a href='/article/5290' target='_blank'>hellolin's article</a>.</p>
